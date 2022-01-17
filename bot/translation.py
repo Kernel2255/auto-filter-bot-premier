@@ -5,10 +5,12 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🌚🎀
-For More Details Click Help Button Below..
-@LXRYOUTUBERYT
+<i> 𝙷𝙴𝙻𝙾 
+
+𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 MMF V3, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂,
+𝙹𝚄𝚂𝚃 𝚂𝙴𝙰𝚁𝙲𝙷 𝙼𝙾𝚅𝙸𝙴𝚂 𝙵𝚁𝙾𝙼 𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 & 𝙴𝙽𝙹𝙾𝚈 😍
+©️Team Malayalam Movie Factory.
+@MMF_CHAT
 </i>"""        
     
     HELP_TEXT = """
@@ -41,18 +43,18 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - <b>Button Will Shows The Stats Of Your Channel</b>
             
-<b><a href="https://t.me/LXRBOTSGROUP">© LXR YOUTUBER</a></b>
+<b><a href="https://t.me/MMF_CHAT">© MMF GROUP</a></b>
 """
     
-    ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Pro Auto Filter Bot</b>
+    ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>MMF V3 Bot</b>
 
-<b>>➥👨‍💼Master</b> : <b><a href="https://t.me/LXRBOTSGROUP">👤 LXR YOUTUBER</a></b>
+<b>>➥👨‍💼Master</b> : <b><a href="https://t.me/manglasseryy_neelakandan">👤 Manglasseyy_neelakandan</a></b>
 
-<b>➥ 🎬turtoil video</b> : <b><a href="https://youtu.be/pgupV-C6B74">👤LXR AMAL BOTS</a></b>
+<b>➥ Support Group</b> : <b><a href="https://t.me/mmf_chat">👤Manglasseryy_neelakandan</a></b>
 
 <b>➥ 🗣️Language</b> : <b>Python3<b>
 
-<b>➥ 📚Library</b> : <b><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></b>
+<b>➥ 📚Library</b> : <b><a href="🤭🤭">Pyrogram Asyncio 1.13.0 </a></b>
 
-<b>➥ 📖Source Code</b> : <b><a href="https://github.com/LXR-YOUTUBER-AMAL/auto-filter-bot-premier">💥Click Me</a></b>
+<b>➥ 📖Source Code</b> : <b><a href="🤭🤭🤭">💥Click Me</a></b>
 """
